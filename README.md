@@ -278,7 +278,7 @@ In Chrome (and Safari 10) fieldset elements with `display: grid` do not act as g
       <a href="https://yuheiy.github.io/pub/textarea-in-grid.html">11.1</a> &mdash; <em>bug</em>
     </td>
     <td>
-    Chrome (on OSX only)
+    Chrome (on OSX only, fixed in Canary 64.0.3250.0)
     </td>
     <td><a href=" https://bugs.chromium.org/p/chromium/issues/detail?id=727076">Chromium #727076</a></td>
   </tr>
